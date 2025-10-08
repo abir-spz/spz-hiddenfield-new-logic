@@ -135,7 +135,7 @@ hiddenValue('SPZ_28009', 'SPZ_28009_control');
 ## License & Attribution
 
 - **Author:** Abir Maiti  
-- **Company:** Spiralyze  
-- **Version:** 1.0.0
+- **Company:** Spiralyze LLC
+- **Version:** 1.0.0 (Beta)
 
 ---
